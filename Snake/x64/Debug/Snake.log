@@ -1,5 +1,0 @@
-﻿  Snek.cpp
-C:\Users\Shahin\source\repos\Snake\Snake\Snek.cpp(45,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-C:\Users\Shahin\source\repos\Snake\Snake\Snek.cpp(45,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-C:\Users\Shahin\source\repos\Snake\Snake\Snek.cpp(146,30): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-  Snake.vcxproj -> C:\Users\Shahin\source\repos\Snake\x64\Debug\Snake.exe
