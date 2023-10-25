@@ -175,6 +175,7 @@ int main()
 	while (true)
 	{
 		dead = false;
+		speedDelay = 200;
 		score = 0;
 		snakeBody = {};
 		hideCursor();
