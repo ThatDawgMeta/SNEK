@@ -183,7 +183,7 @@ int main()
 
 		//Define miliseconds
 		uint64_t msMove = duration_cast<milliseconds>(system_clock::now().time_since_epoch()).count();
-		uint64_t updateMove = msMove + 100;
+		uint64_t updateMove = msMove + speedDelay;
 		uint64_t secGen = duration_cast<seconds>(system_clock::now().time_since_epoch()).count();
 		uint64_t updateGen = secGen + 1;
 
